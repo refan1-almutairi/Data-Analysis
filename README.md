@@ -11,3 +11,12 @@ A simple Python program that evaluates a student's grade and displays the result
 ## Number Guessing Game
 
 A simple Python game where the user tries to guess the correct number.
+
+
+
+## Excel Data Analysis
+
+A data analysis project using Excel for data cleaning, formulas, pivot tables, charts, and analyzing data values.
+
+
+
